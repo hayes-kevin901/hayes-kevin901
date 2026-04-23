@@ -1,16 +1,16 @@
-## Hi there 👋
+# What's up 🚀
 
-<!--
-**hayes-kevin901/hayes-kevin901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **hayes-kevin901**, a security researcher.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Reach me through GitHub
+- 🤔 Exploring new technologies
+
+## Tech
+
+`Bun` `Deno` `WebSocket` `Gin` `Redis` `Spring`
+
+---
+
+_Open to collaboration._
